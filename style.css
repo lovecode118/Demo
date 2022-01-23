@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: adobe-clean-han-japanese,adobe-clean,Hiragino Kaku Gothic ProN,Yu Gothic,"\30E1 \30A4 \30EA \30AA","\30D2 \30E9 \30AE \30CE \89D2 \30B4 Pro W3",Hiragino Kaku Gothic Pro W3,Osaka,"\FF2D \FF33 \FF30 \30B4 \30B7 \30C3 \30AF",MS PGothic,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;;
+}
+button{
+    background: none;
+    border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;   
+    appearance: none;
+    margin-left: auto;
+}
+.headerbtn{
+    width: 200px;
+    height: 50px;
+    font-weight: 700;
+}
+ul{
+    display: flex;
+    font-weight: 700;
+    justify-content: center;
+    width: 100%;
+    height: 55px;
+    line-height: 55px;
+}
+li{
+    margin: 0 50px;
+}
+img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+section{
+    width: 300px;
+}
+.container{
+    background-color: white;
+}
+.logo{
+    width: 5%;
+    height: 5%;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+main{
+    background-color: #EEECEC;
+}
+header{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+h1,h2,p{
+    text-align: center;
+}
+span{
+    display: block;
+}
+
